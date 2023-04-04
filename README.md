@@ -1,14 +1,14 @@
-#Project Name: Whatsapp Auto Message Sender
+# Project Name: Whatsapp Auto Message Sender
 Description:
 This is a python project that allows users to send WhatsApp messages automatically by providing the href ID of the message recipient and the time at which the message should be sent. This project uses Selenium, an open-source automation tool, to interact with the WhatsApp web application and send messages.
 
-Dependencies:
+# Dependencies:
 This project requires the following dependencies to be installed:
+1. Python 3.x
+2. Selenium
+3. Chrome WebDriver
 
-Python 3.x
-Selenium
-Chrome WebDriver
-Usage:
+# Usage:
 Clone the project from GitHub to your local machine.
 Install the required dependencies using pip.
 Download and install the Chrome WebDriver and add it to your PATH.
